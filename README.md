@@ -143,3 +143,22 @@ nav a:hover {
 <br>
 
 Selanjutnya tambahkan tag \<link> untuk merujuk file css yang sudah dibuat pada bagian \<head>
+<br>
+
+```
+<head>
+        <h1>CSS Internal dan <i>Inline CSS</i></h1>
+    </head>
+    <nav>
+        <a href="lab2_css_dasar.html">CSS Dasar</a>
+        <a href="lab2_css_eksternal.html">CSS Eksternal</a>
+        <a href="lab1_tag_dasar.html">HTML Dasar</a>
+        <link rel="stylesheet" href="style_eksternal.css" type="text/css">
+    </nav>
+```
+<br>
+
+Simpan dan refresh kembali browser untuk melihat perubahannya<br>
+<br>
+
+![gambar 4](image/run4.PNG) <br>
