@@ -162,3 +162,55 @@ Simpan dan refresh kembali browser untuk melihat perubahannya<br>
 <br>
 
 ![gambar 4](image/run4.PNG) <br>
+<br>
+
+5. Menambahkan CSS selector
+Langkah selanjutnya menambahkan CSS selector menggunakan ID dan Class selector. pada file *style_eksternal.css* <br>
+```
+nav {
+    background: #20A759;
+    color:#fff;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding:10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #0B6B3A;
+}
+
+/* ID Selector */
+#intro {
+    background: #418fb1;
+    border: 1px solid #099249;
+    min-height: 100px;
+    padding: 10px;
+}
+#intro h1 {
+    text-align: left;
+    border: 0;
+    color: #fff;
+}
+/* Class Selector */
+.button {
+    padding: 15px 20px;
+    background: #bebcbd;
+    color: #fff;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+}
+.btn-primary {
+    background: #E42A42;
+}
+```
+<br>
+
+Simpan dan refresh kembali browser untuk melihat perubahannya<br>
+<br>
+
+![gambar 5](image/run5.PNG) <br>
+<br>
