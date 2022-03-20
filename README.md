@@ -101,6 +101,7 @@ Selanjutnya menambahkan deklarasi CSS internal seperti berikut pada bagian head 
 
 Save perubahan tersebut dan lakukan refresh pada web browser untuk melihat hasilnya<br>
 <br>
+
 ![gambar 2](image/run2.PNG) <br>
 <br>
 
@@ -114,3 +115,11 @@ Langkah yg ketiga menambahkan deklarasi inline CSS pada tag \<p>
         dan CSS.</p>
 ```
 <br>
+
+Simpan dan refresh kembali browser untuk melihat perubahannya<br>
+<br>
+
+![gambar 2](image/run3.PNG) <br>
+<br>
+
+
