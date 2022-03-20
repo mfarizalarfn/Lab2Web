@@ -119,7 +119,27 @@ Langkah yg ketiga menambahkan deklarasi inline CSS pada tag \<p>
 Simpan dan refresh kembali browser untuk melihat perubahannya<br>
 <br>
 
-![gambar 2](image/run3.PNG) <br>
+![gambar 3](image/run3.PNG) <br>
 <br>
 
+4. Membuat CSS eksternal<br>
+Buatlah file baru dengan nama *style_eksternal.css* kemuadian buatlah deklarasi CSS sebagai berikut<br>
+```
+nav {
+    background: #20A759;
+    color:#fff;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding:10px 20px;
+}
+nav .active,
+nav a:hover {
+    background: #0B6B3A;
+}
+```
+<br>
 
+Selanjutnya tambahkan tag \<link> untuk merujuk file css yang sudah dibuat pada bagian \<head>
