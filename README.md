@@ -100,6 +100,7 @@ Selanjutnya menambahkan deklarasi CSS internal seperti berikut pada bagian head 
 <br>
 
 Save perubahan tersebut dan lakukan refresh pada web browser untuk melihat hasilnya<br>
+<br>
 ![gambar 2](image/run2.PNG) <br>
 <br>
 
