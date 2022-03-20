@@ -41,3 +41,5 @@ Langkah pertama pada petunjuk module praktikum lab 2 web ini adalah dengan membu
 </body>
 </html>
 ```
+*Berikut tampilan source code jika dijalankan :* <br>
+![gambar 1](image/run1.PNG) <br>
