@@ -104,3 +104,13 @@ Save perubahan tersebut dan lakukan refresh pada web browser untuk melihat hasil
 ![gambar 2](image/run2.PNG) <br>
 <br>
 
+3. Menambahkan inline CSS<br>
+Langkah yg ketiga menambahkan deklarasi inline CSS pada tag \<p>
+```
+<h1>Hello World</h1>
+        <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman
+        Web</b> di <i>Universitas Pelita Bangsa</i>. Pelajaran pertama yang kami dapat
+        adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar HTML
+        dan CSS.</p>
+```
+<br>
